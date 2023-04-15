@@ -1,4 +1,5 @@
 # Made by Marcouscous!
+# Only support python3
 
 # Import required modules used by the program (so it can operate properly)
 import random
